@@ -9,6 +9,6 @@
 
 #Supervisor
 * Pham Minh Hai				FPT
-* Dr. Nguyen Hoang Mai			DUT
-* Dr. Truong Thi Bich Thanh		DUT
+* Ho Viet Nhu Dao			FPT
+* Phan Tuan Hiep		  FPT
 
